@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+=======
+# Employee Management React App
+>>>>>>> 1dc309231cfba19a21b0d43c15b007c7691a2418
 
 Currently, two official plugins are available:
 
