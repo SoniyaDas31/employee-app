@@ -1,0 +1,26 @@
+body{
+  margin:0;
+  padding: 0;
+}
+
+.container-fluid{
+  margin: 0;
+}
+
+.form-input{
+  padding: 10px;
+  font-size: 16px;
+  border:1px solid #000;
+  display: block;
+  margin-top: 5px;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.form-input.custom-select{
+  width: 100%;
+}
+
+.pointer{
+  cursor: pointer;
+}
