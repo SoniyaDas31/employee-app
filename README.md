@@ -26,3 +26,9 @@ Technologies Used:
 
 5. Authentication & Authorization using MERN
 
+
+DB Credentials
+URI: mongodb://localhost:27017/?directConnection=true
+
+connection string: mongodb://localhost:27017/?directConnection=true
+
